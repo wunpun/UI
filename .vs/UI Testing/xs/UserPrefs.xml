@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{A9672AB3-1D0A-2E30-06D1-785CD389B335}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/change_to_1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/change_green.cs">
     <Files>
       <File FileName="Assets/move_player.cs" Line="12" Column="1" />
       <File FileName="Assets/change_scene_0.cs" Line="11" Column="6" />
       <File FileName="Assets/change_to_1.cs" Line="4" Column="35" />
+      <File FileName="Library/PackageCache/com.unity.textmeshpro@1.3.0/Scripts/Runtime/TextMeshPro.cs" Line="1" Column="1" />
+      <File FileName="Assets/change_green.cs" Line="7" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UI Testing" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="change_to_1.cs" selected="True" />
+              <Node name="change_green.cs" selected="True" />
             </Node>
           </Node>
         </State>
